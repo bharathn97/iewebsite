@@ -1,0 +1,179 @@
+
+div
+{
+  background-color: black;
+  margin: 0%;
+  width: 100%;
+  height: 30px;
+  padding-top: 20px;
+}
+h2
+{    
+  color:blue;
+  position: relative;
+  bottom: 30px;
+  left: 15px;
+}
+.mainbar
+{
+  color:blue;
+  position: absolute;
+  right: 15px;
+  top: 0; 
+  word-spacing: 30px;
+}
+body{
+    margin: 0;
+}
+span:hover{
+    background-color: #39B5E0;
+}
+.watermark{
+    height: 250px;
+    width: 250px;
+}
+.backgroundimage{
+ height:300px;
+ width:100%;
+ background-color: #BFEAF5;
+}
+.content{
+    position: relative;
+    left: 300px;
+    bottom: 300px;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    height:350px;
+    width:1200px;
+}
+.ieimage{
+    background-color:  #2DCDDF;
+    height: 320px;
+}
+.image{
+    position: relative;
+    left: 1200px;
+    bottom: 150px;
+    width: 300px;
+    height: 300px;
+}
+.bottomcontainer
+{
+ width:100%;
+ height:400px;
+ background-color: black;
+}
+.bottommostcontainer{
+  height:100px;
+  width:100%;
+  background-color: #39B5E0;
+
+}
+.aboutienitk{
+  width:250px;
+  height:300px;
+  display:inline-block;
+  position: relative;
+  left:100px;
+  top:40px;
+  background-color: rgb(69, 69, 69);
+  color: white;
+}
+.links{
+    width:250px;
+    height:250px;
+    display:inline-block;
+    background-color: rgb(69, 69, 69);
+    position:relative;
+    left:150px;
+    top:0;
+    color: white;
+}
+.contactinfo
+{
+    height:150px; 
+    width:300px;
+    display:inline-block;
+    position:relative;
+    left:300px;
+    top:0px;
+    bottom:200px;
+    background-color: rgb(69, 69, 69);
+    color: white;
+}
+.credits
+{
+  position:relative;
+  top:10px;
+  left:40px;
+  font-size:20px;
+  color: white;
+}
+.IEataglance
+{
+  height:500px;
+  width:100%;
+  background-color: rgb(191, 234, 245);
+}
+h1{
+  position:realtive;
+  top:80px;
+  padding-left:100px;  
+}
+.snippet{
+  width: 70%;
+  padding-left: 100px;
+  height:250px;
+  position:absolute;
+  left: 100px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+
+}
+.achievements
+{
+  width:300px;
+  height:200px;
+  background-color:#2DCDDF;
+  display:inline-block;
+}
+.recognition
+{
+  background-color:#2DCDDF;
+  width:300px;
+  height:200px;
+  display:inline-block;
+  position: relative;
+  left:50px;
+}
+.community
+{
+  background-color: #2DCDDF;
+  height:200px;
+  width:300px;
+  display:inline-block;
+  position: relative;
+  left:100px;
+  bottom: 20px;
+}
+.about{
+  position:relative;
+  left: 0;
+  top: 0;
+}
+.Cont{
+  font-family: sans-serif;
+}
+.event{
+  position: relative;
+  left: 20px;
+  font-size: 25px;
+  width:1000px;
+}
+.content1{
+  width:1000px;
+  position: relative;
+  left: 20px;
+  font-size: 20px;
+  color:white;
+}
